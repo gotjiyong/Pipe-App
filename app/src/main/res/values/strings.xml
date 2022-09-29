@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pipe</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_friends">Users</string>
+    <string name="title_profile">Menu</string>
+</resources>

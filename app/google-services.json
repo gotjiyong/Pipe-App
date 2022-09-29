@@ -1,0 +1,156 @@
+{
+  "project_info": {
+    "project_number": "399885767265",
+    "firebase_url": "https://chat2-93345-default-rtdb.firebaseio.com",
+    "project_id": "chat2-93345",
+    "storage_bucket": "chat2-93345.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399885767265:android:3230d26326db36c4501020",
+        "android_client_info": {
+          "package_name": "com.jcy.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399885767265-rg4ae8dvtr3dub3ptf2mt132jlnfnghs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWp8RK94OeSugwkkaEEx9gRacGk61ypws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399885767265-rg4ae8dvtr3dub3ptf2mt132jlnfnghs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399885767265:android:8968af706f12a635501020",
+        "android_client_info": {
+          "package_name": "com.jcy.chatapp2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399885767265-rg4ae8dvtr3dub3ptf2mt132jlnfnghs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWp8RK94OeSugwkkaEEx9gRacGk61ypws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399885767265-rg4ae8dvtr3dub3ptf2mt132jlnfnghs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399885767265:android:e0c88c0637ae8692501020",
+        "android_client_info": {
+          "package_name": "com.jcy.teamchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399885767265-rg4ae8dvtr3dub3ptf2mt132jlnfnghs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWp8RK94OeSugwkkaEEx9gRacGk61ypws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399885767265-rg4ae8dvtr3dub3ptf2mt132jlnfnghs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399885767265:android:3784fc89fa4e3a4a501020",
+        "android_client_info": {
+          "package_name": "com.jcy.teamchat2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399885767265-rg4ae8dvtr3dub3ptf2mt132jlnfnghs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWp8RK94OeSugwkkaEEx9gRacGk61ypws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399885767265-rg4ae8dvtr3dub3ptf2mt132jlnfnghs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399885767265:android:7b450deeac0af671501020",
+        "android_client_info": {
+          "package_name": "com.jcy.teamchat_j"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399885767265-rg4ae8dvtr3dub3ptf2mt132jlnfnghs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWp8RK94OeSugwkkaEEx9gRacGk61ypws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399885767265-rg4ae8dvtr3dub3ptf2mt132jlnfnghs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
